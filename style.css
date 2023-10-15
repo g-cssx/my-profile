@@ -1,7 +1,7 @@
 /* Colors and fonts */
 body {
   background: #F7F9FC;
-  color: #575F7D;
+  color: #2c303f;
   font-family: 'Lora', serif;
   font-size: 17px;
   font-weight: lighter;
@@ -12,13 +12,13 @@ h1, h2, h3 {
 }
 
 h1 {
-  color: #575F7D;
+  color: #407094;
   font-size: 32px;
   font-weight: 900;
 }
 
 h2 {
-  color: #7ECE90;
+  color: #407094;
   font-size: 20px;
   font-weight: lighter;
   font-weight: 500;
@@ -69,7 +69,7 @@ a:hover {
 }
 
 .btn-blue {
-  background-color: #6B72E1;
+  background-color: #407094;
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
